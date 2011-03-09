@@ -24,7 +24,7 @@
             	<onclick lang="python">
 <![CDATA[
 listitem = mc.ListItem()
-listitem.SetPath("flash://www.bbc.co.uk/bbcone/watchlive/")
+listitem.SetPath("flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcone%2Fwatchlive%2F")
 mc.Player().Play(listitem)
 ]]>
 				</onclick>
