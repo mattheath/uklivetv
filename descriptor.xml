@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<app>
+	<id>BBC Live</id>
+	<name>BBC Live</name>
+	<version>0.0.1</version>
+	<description>Watch BBC channels live</description>
+	<repository>http://dir.domain.com</repository>
+	<thumb>http://mattheath.com/avatar_200px.jpg</thumb>
+	<media>video</media>
+	<copyright>Matt Heath 2011</copyright>
+	<email>matt@mattheath.com</email>
+	<type>skin</type>
+	<startWindow>14000</startWindow>
+	<platform>all</platform>
+	<minversion>0.9.23</minversion>
+	<test-app>true</test-app>
+</app>
