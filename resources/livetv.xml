@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:boxee="http://boxee.tv/spec/rss/" xmlns:dcterms="http://purl.org/dc/terms/">
+	<channel>
+		<title>Live TV</title>
+		<description>A selection of live TV channels from the UK</description>
+		<item>
+			<guid>http://www.bbc.co.uk/bbcone/watchlive/</guid>
+			<title>BBC One</title>
+			<description>BBC One Live TV channel</description>
+			<media:content url="flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcone%2Fwatchlive%2F" type="application/x-shockwave-flash" />
+			<media:thumbnail url="http://singularity.mattheath.com/BBC_One.png" />
+			<boxee:media-type expression="full" type="show" name="Live TV"/>
+		</item>
+	</channel>
+</rss>		
