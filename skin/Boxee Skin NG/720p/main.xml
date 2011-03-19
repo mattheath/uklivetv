@@ -83,7 +83,7 @@
 			           <scrollspeed>30</scrollspeed>
 			       </control>
 				</focusedlayout>
-				<content type="url" url="rss://singularity.mattheath.com/livetv.xml"></content>
+				<content type="url" url="rss://uklivetv.mattheath.com/livetv.xml"></content>
 			</control>
         </control>
         <control type="group">
