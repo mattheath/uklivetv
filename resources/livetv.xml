@@ -7,7 +7,7 @@
 			<guid>http://www.bbc.co.uk/bbcone/watchlive/</guid>
 			<title>BBC One</title>
 			<description>BBC One Live TV channel</description>
-			<media:content url="flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcone%2Fwatchlive%2F" type="application/x-shockwave-flash" />
+			<media:content url="flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcone%2Fwatchlive%2F&amp;bx-jsactions=http%3A%2F%2Fsingularity.mattheath.com%2Fbbc.js" type="application/x-shockwave-flash" />
 			<media:thumbnail url="http://singularity.mattheath.com/BBC_One.png" />
 			<boxee:media-type expression="full" type="show" name="Live TV"/>
 		</item>
@@ -15,7 +15,7 @@
 			<guid>http://www.bbc.co.uk/bbctwo/watchlive/</guid>
 			<title>BBC Two</title>
 			<description>BBC Two Live TV channel</description>
-			<media:content url="flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbctwo%2Fwatchlive%2F" type="application/x-shockwave-flash" />
+			<media:content url="flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbctwo%2Fwatchlive%2F&amp;bx-jsactions=http%3A%2F%2Fsingularity.mattheath.com%2Fbbc.js" type="application/x-shockwave-flash" />
 			<media:thumbnail url="http://singularity.mattheath.com/BBC_Two.png" />
 			<boxee:media-type expression="full" type="show" name="Live TV"/>
 		</item>
@@ -23,7 +23,7 @@
 			<guid>http://www.bbc.co.uk/bbcthree/livearena/</guid>
 			<title>BBC Three</title>
 			<description>BBC Three Live TV channel</description>
-			<media:content url="flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Flivearena%2F" type="application/x-shockwave-flash" />
+			<media:content url="flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcthree%2Flivearena%2F&amp;bx-jsactions=http%3A%2F%2Fsingularity.mattheath.com%2Fbbc.js" type="application/x-shockwave-flash" />
 			<media:thumbnail url="http://singularity.mattheath.com/BBC_Three.png" />
 			<boxee:media-type expression="full" type="show" name="Live TV"/>
 		</item>
@@ -31,7 +31,7 @@
 			<guid>http://www.bbc.co.uk/bbcfour/watchlive/</guid>
 			<title>BBC Four</title>
 			<description>BBC Four Live TV channel</description>
-			<media:content url="flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcfour%2Fwatchlive%2F" type="application/x-shockwave-flash" />
+			<media:content url="flash://www.bbc.co.uk/src=http%3A%2F%2Fwww.bbc.co.uk%2Fbbcfour%2Fwatchlive%2F&amp;bx-jsactions=http%3A%2F%2Fsingularity.mattheath.com%2Fbbc.js" type="application/x-shockwave-flash" />
 			<media:thumbnail url="http://singularity.mattheath.com/BBC_Four.png" />
 			<boxee:media-type expression="full" type="show" name="Live TV"/>
 		</item>
