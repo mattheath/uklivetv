@@ -3,7 +3,7 @@
 	<id>uklivetv</id>
 	<name>UK Live TV</name>
 	<version>0.0.1</version>
-	<description>Watch BBC channels live</description>
+	<description>Watch live TV from the UK</description>
 	<repository>http://dir.domain.com</repository>
 	<thumb>http://mattheath.com/avatar_200px.jpg</thumb>
 	<media>video</media>
