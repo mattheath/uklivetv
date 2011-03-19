@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <app>
-	<id>BBC Live</id>
-	<name>BBC Live</name>
+	<id>uklivetv</id>
+	<name>UK Live TV</name>
 	<version>0.0.1</version>
 	<description>Watch BBC channels live</description>
 	<repository>http://dir.domain.com</repository>
