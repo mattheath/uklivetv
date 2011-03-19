@@ -51,7 +51,7 @@ _findPlayer = setInterval(function()
 {
       boxee.getWidgets().forEach(function(widget)
       {
-         if (widget.getAttribute("id") == 'bbc_emp_embed_channels_emp_0')
+         if (widget.getAttribute("id") == 'bbc_emp_embed_channels_emp_0' || widget.getAttribute("id") == 'bbc_emp_embed_empwatch')
          {
             boxee.renderBrowser=false;
             widget.setActive(true);
